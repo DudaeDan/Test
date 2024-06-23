@@ -1,0 +1,28 @@
+{
+    "redhat.telemetry.enabled": true,
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "D2Coding, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 20,
+    "html.autoClosingTags": false,
+    "html.format.enable": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "window.zoomLevel": 0,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.accessibilitySupport": "off",
+    "tabnine.experimentalAutoImports": true,
+    "bitoAI.codeCompletion.enableAutoCompletion": true,
+    "bitoAI.codeCompletion.enableCommentToCode": true,
+    "editor.inlineSuggest.showToolbar": "onHover"
+}
